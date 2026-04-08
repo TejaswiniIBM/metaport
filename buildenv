@@ -5,7 +5,7 @@ META_VERSION="0.8.4"
 # 'meta' directory either in the script or in the environment
 #export ZOPEN_META_DEV_ROOT=""
 
-export ZOPEN_BUILD_LINE="STABLE"
+export ZOPEN_BUILD_LINE="DEV"
 export ZOPEN_CATEGORIES="utilities"
 
 
